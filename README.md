@@ -16,7 +16,7 @@ TIDE stands for **Token of Digital and Ethical Identity** – a new category of 
 To allow every human being to own a unique, secure, and self-sovereign identity – without dependence on governments, corporations, or borders.
 
 ### What’s included so far
-- Full Whitepapers (PT + EN)
+- Whitepaper (EN)
 - Token Allocation Plan
 - Roadmap + MVP
 - Formal NDA for collaborators
