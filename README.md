@@ -1,4 +1,4 @@
-# NOVA (NV) | Token of New Digital and Ethical Identity
+# NOVA (NV) | Token of NOVA Value Digital and Ethical Identity
 
 **“Each human being has the right to own their own identity.” — ZAISS**
 
