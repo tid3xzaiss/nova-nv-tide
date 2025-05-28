@@ -1,10 +1,9 @@
-# NOVA (NV) | TIDE – Token of Digital and Ethical Identity
+# NOVA (NV) | Token of New Digital and Ethical Identity
 
 **“Each human being has the right to own their own identity.” — ZAISS**
 
 NOVA (NV) is a decentralized digital identity project focused on restoring sovereignty, security, and ethical transparency in the digital world.
-
-TIDE stands for **Token of Digital and Ethical Identity** – a new category of crypto asset that does not compete, but completes. It does not divide, it connects. It does not impose, it flows.
+a new category of crypto asset that does not compete, but completes. It does not divide, it connects. It does not impose, it flows.
 
 ### Core Principles
 - **Transparency**
