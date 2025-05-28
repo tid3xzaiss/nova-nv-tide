@@ -1,8 +1,8 @@
-# NOVA (NV) | Token of NOVA Value Digital and Ethical Identity
+# NOVA (NV) | New Value Token ID - Digital and Ethical Identity
 
 **“Each human being has the right to own their own identity.” — ZAISS**
 
-NOVA (NV) is a decentralized digital identity project focused on restoring sovereignty, security, and ethical transparency in the digital world.
+NOVA (NV) is a decentralized digital identity project focused on New Value´s restoring sovereignty, security, and ethical transparency in the digital world.
 a new category of crypto asset that does not compete, but completes. It does not divide, it connects. It does not impose, it flows.
 
 ### Core Principles
